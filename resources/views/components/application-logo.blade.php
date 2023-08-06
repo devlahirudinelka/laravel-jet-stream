@@ -1,0 +1,1 @@
+<img src="https://img.freepik.com/free-icon/logo_318-195518.jpg" alt="" width="70px" srcset="">
